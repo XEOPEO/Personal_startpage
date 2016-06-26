@@ -1,4 +1,4 @@
 $(document).ready(function() {
-    $('#clock').html(new Date().getHours() + ":" + new Date().getMinutes());
-    var interval = setInterval(function() {$('#clock').html(new Date().getHours() + ":" + new Date().getMinutes() + ":" + new Date().getSeconds());}, 1000);
+    $('#clock').html(new Date().toTimeString().replace(/.*(\d{2}:\d{2}:\d{2}).*/, "$1"));
+    var interval = setInterval(function() {$('#clock').html(new Date().toTimeString().replace(/.*(\d{2}:\d{2}:\d{2}).*/, "$1"));}, 1000);
 });
