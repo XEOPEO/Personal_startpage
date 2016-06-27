@@ -111,7 +111,7 @@ var data = {
             "url": "https://boards.4chan.org/wg/"
         },
         {
-            "name": "Anime &amp; Manga",
+            "name": "Anime & Manga",
             "url": "https://boards.4chan.org/a/"
         }
     ],
