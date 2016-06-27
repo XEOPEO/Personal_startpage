@@ -15,4 +15,4 @@ The links and categories are being read out of a JSON object where people can cr
 - [x] Add own most used links
 - [ ] Implement search field
 - [ ] Make the website totally responsive
-- [ ] Create menu of links and categories out of JSON
+- [x] Create menu of links and categories out of JSON
