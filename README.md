@@ -13,6 +13,6 @@ The links and categories are being read out of a JSON file where people can crea
 - [x] Create start template
 - [x] Make clock go automatically
 - [x] Add own most used links
-- [] Implement search field
-- [] Make the website totally responsive
-- [] Create menu of links and categories out of JSON
+- [ ] Implement search field
+- [ ] Make the website totally responsive
+- [ ] Create menu of links and categories out of JSON
