@@ -7,7 +7,7 @@ With this page there can an unlimited amount of links added in categories.
 
 ## Build-up
 The site is totally made out of HTML5, CSS3 and JavaScript. The layout is made with flexbox to make it responsive. But there are some limits outside layout which needs mediaqueries to be fixed.
-The links and categories are being read out of a JSON file where people can create their own structure.
+The links and categories are being read out of a JSON object where people can create their own structure.
 
 ## Tasks list:
 - [x] Create start template
