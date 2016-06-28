@@ -41,17 +41,27 @@ html {
 			flex-wrap: wrap;
 
 			&#search {
-				margin: 1em 0;
+				margin: 1.5em 0;
+				box-shadow: inset 0 0 0.4em #000000;
+				background: rgb(7, 8, 15);
+				border-radius: 0.15em;
+				font-size: 2em;
+
+				span {
+					display: inline-block;
+					padding: 0.2em;
+					color: rgb(200, 200, 200);
+				}
 
 				input {
-					display: block;
-					font-size: 3em;
-					padding: 0.1em 0.2em;
-					background-color: rgb(7, 8, 15);
+					display: inline-block;
+					padding: 0.2em 0.2em;
 					border: none;
-					box-shadow: inset 0 0 0.4em #000000;
 					color: white;
-					border-radius: 0.08em;
+					font-size: 1em;
+					background: rgb(7, 8, 15);
+					border-top-right-radius: 0.15em;
+					border-bottom-right-radius: 0.15em;
 				}
 			}
 
