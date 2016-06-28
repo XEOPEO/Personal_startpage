@@ -9,6 +9,13 @@ $(document).ready(function() {
     $.each(data, function(k, v) {
         $.fn.createMenuItem(k, v);
     });
+
+    $("input#search").keypress(function(e) {
+        if(e.keyCode == 13) {
+            var query = $("input#search").val().trim();
+            if (typeof query != "undefined" && query !== "") $.fn.googleSearch(query);
+        }
+    });
 });
 
 $.fn.createMenuItem = function(k, v) {
@@ -30,4 +37,16 @@ $.fn.createMenuItem = function(k, v) {
     section.appendChild(ul);
     article.appendChild(section);
     $("#menu").append(article);
+};
+
+$.fn.googleSearch = function(query) {
+    var queryString = "",
+        arrQuery = query.split(' ');
+
+    for (var i = 0; i < arrQuery.length; i++) {
+        queryString += arrQuery[i];
+        if (i !== (arrQuery.length - 1)) queryString += "+";
+    }
+
+    window.location.assign("http://google.com/search?q=" + queryString);
 };
