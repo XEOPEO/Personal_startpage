@@ -53,18 +53,22 @@ html {
 				span {
 					display: inline-block;
 					padding: 0.2em;
-					color: rgb(200, 200, 200);
+					color: white;
 				}
 
 				input {
 					display: inline-block;
-					padding: 0.2em 0em;
+					padding: 0.2em;
 					border: none;
 					color: white;
 					font-size: 1em;
 					background: rgb(7, 8, 15);
 					border-top-right-radius: 0.15em;
 					border-bottom-right-radius: 0.15em;
+
+					&:focus {
+						outline: none;
+					}
 				}
 			}
 
