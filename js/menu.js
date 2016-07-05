@@ -77,6 +77,10 @@ var data = {
         {
             "name": "animetv",
             "url": "http://animetv.at/"
+        },
+        {
+            "name": "gogoanime",
+            "url": "http://gogoanime.io/"
         }
     ],
     "programming": [
