@@ -32,6 +32,10 @@ var data = {
             "name": "steamstatus",
             "url": "https://steamstat.us/"
         },
+        {
+            "name": "faceitSTATS",
+            "url": "http://faceitstats.com/"
+        }
     ],
     "social": [
         {
@@ -41,10 +45,6 @@ var data = {
         {
             "name": "twitter",
             "url": "https://twitter.com/"
-        },
-        {
-            "name": "instagram",
-            "url": "https://www.instagram.com/"
         },
         {
             "name": "linkedin",
