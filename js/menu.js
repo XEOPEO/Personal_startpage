@@ -13,10 +13,6 @@ var data = {
             "url": "http://www.hltv.org/"
         },
         {
-            "name": "reddit",
-            "url": "https://www.reddit.com/r/GlobalOffensive/"
-        },
-        {
             "name": "steamcommunity",
             "url": "https://steamcommunity.com/"
         },
@@ -103,6 +99,28 @@ var data = {
         {
             "name": "github",
             "url": "https://github.com/"
+        }
+    ],
+    "Reddit": [
+        {
+            "name": "CSGO",
+            "url": "https://www.reddit.com/r/GlobalOffensive/"
+        },
+        {
+            "name": "H1Z1",
+            "url": "https://www.reddit.com/r/h1z1/"
+        },
+        {
+            "name": "Windows",
+            "url": "https://www.reddit.com/r/Windows10/"
+        },
+        {
+            "name": "AMD",
+            "url": "https://www.reddit.com/r/Amd/"
+        },
+        {
+            "name": "Dell",
+            "url": "https://www.reddit.com/r/Dell/"
         }
     ],
     "4chan": [
