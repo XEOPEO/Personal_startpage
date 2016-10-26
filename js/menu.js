@@ -79,7 +79,7 @@ var data = {
             "url": "http://gogoanime.io/"
         }
     ],
-    "programming": [
+    "dev": [
         {
             "name": "tutorialzine",
             "url": "http://tutorialzine.com/"
@@ -101,7 +101,7 @@ var data = {
             "url": "https://github.com/"
         }
     ],
-    "Reddit": [
+    "reddit": [
         {
             "name": "CSGO",
             "url": "https://www.reddit.com/r/GlobalOffensive/"
@@ -129,11 +129,11 @@ var data = {
             "url": "https://boards.4chan.org/g/"
         },
         {
-            "name": "Wallpapers/general",
+            "name": "Wallpapers",
             "url": "https://boards.4chan.org/wg/"
         },
         {
-            "name": "Anime & Manga",
+            "name": "Anime",
             "url": "https://boards.4chan.org/a/"
         }
     ],
