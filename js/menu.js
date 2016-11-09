@@ -121,6 +121,14 @@ var data = {
         {
             "name": "Dell",
             "url": "https://www.reddit.com/r/Dell/"
+        },
+        {
+            "name": "MouseReview",
+            "url": "https://www.reddit.com/r/mousereview/"
+        },
+        {
+            "name": "Finalmouse",
+            "url": "https://www.reddit.com/r/finalmouse/"
         }
     ],
     "4chan": [
