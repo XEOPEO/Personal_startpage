@@ -129,6 +129,10 @@ var data = {
             "url": "https://youtu.be/"
         },
         {
+            "name": "The hacker news",
+            "url": "https://thehackernews.com/"
+        },
+        {
             "name": "tweakers",
             "url": "https://tweakers.net/"
         },
