@@ -108,11 +108,7 @@ var data = {
         },
         {
             "name": "H1Z1",
-            "url": "https://www.reddit.com/r/h1z1/"
-        },
-        {
-            "name": "Windows",
-            "url": "https://www.reddit.com/r/Windows10/"
+            "url": "https://www.reddit.com/r/kotk/"
         },
         {
             "name": "AMD",
@@ -127,8 +123,8 @@ var data = {
             "url": "https://www.reddit.com/r/mousereview/"
         },
         {
-            "name": "Finalmouse",
-            "url": "https://www.reddit.com/r/finalmouse/"
+            "name": "MechanicalKeyboards",
+            "url": "https://www.reddit.com/r/MechanicalKeyboards/"
         }
     ],
     "4chan": [
