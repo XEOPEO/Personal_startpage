@@ -13,10 +13,6 @@ var data = {
             "url": "http://www.hltv.org/"
         },
         {
-            "name": "reddit",
-            "url": "https://www.reddit.com/r/GlobalOffensive/"
-        },
-        {
             "name": "steamcommunity",
             "url": "https://steamcommunity.com/"
         },
@@ -32,6 +28,10 @@ var data = {
             "name": "steamstatus",
             "url": "https://steamstat.us/"
         },
+        {
+            "name": "faceitSTATS",
+            "url": "http://faceitstats.com/"
+        }
     ],
     "social": [
         {
@@ -41,10 +41,6 @@ var data = {
         {
             "name": "twitter",
             "url": "https://twitter.com/"
-        },
-        {
-            "name": "instagram",
-            "url": "https://www.instagram.com/"
         },
         {
             "name": "linkedin",
@@ -83,7 +79,7 @@ var data = {
             "url": "http://gogoanime.io/"
         }
     ],
-    "programming": [
+    "dev": [
         {
             "name": "tutorialzine",
             "url": "http://tutorialzine.com/"
@@ -105,17 +101,43 @@ var data = {
             "url": "https://github.com/"
         }
     ],
+    "reddit": [
+        {
+            "name": "CSGO",
+            "url": "https://www.reddit.com/r/GlobalOffensive/"
+        },
+        {
+            "name": "H1Z1",
+            "url": "https://www.reddit.com/r/kotk/"
+        },
+        {
+            "name": "AMD",
+            "url": "https://www.reddit.com/r/Amd/"
+        },
+        {
+            "name": "Dell",
+            "url": "https://www.reddit.com/r/Dell/"
+        },
+        {
+            "name": "MouseReview",
+            "url": "https://www.reddit.com/r/mousereview/"
+        },
+        {
+            "name": "MechanicalKeyboards",
+            "url": "https://www.reddit.com/r/MechanicalKeyboards/"
+        }
+    ],
     "4chan": [
         {
             "name": "Technology",
             "url": "https://boards.4chan.org/g/"
         },
         {
-            "name": "Wallpapers/general",
+            "name": "Wallpapers",
             "url": "https://boards.4chan.org/wg/"
         },
         {
-            "name": "Anime & Manga",
+            "name": "Anime",
             "url": "https://boards.4chan.org/a/"
         }
     ],
