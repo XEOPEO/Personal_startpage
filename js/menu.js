@@ -72,7 +72,7 @@ var data = {
         },
         {
             "name": "animetv",
-            "url": "http://animetv.at/"
+            "url": "https://www2.animetv.to/"
         },
         {
             "name": "gogoanime",
