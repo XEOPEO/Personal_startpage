@@ -1,24 +1,26 @@
 // Author: Cedric 'Xeo' Dellisse
-$(document).ready(function() {
+$(document).ready(function () {
     // Set clock element on actual time
     $('#clock').html(new Date().toTimeString().replace(/.*(\d{2}:\d{2}:\d{2}).*/, "$1"));
     // Update clock every second to stay up to date
-    var interval = setInterval(function() {$('#clock').html(new Date().toTimeString().replace(/.*(\d{2}:\d{2}:\d{2}).*/, "$1"));}, 1000);
+    var interval = setInterval(function () {
+        $('#clock').html(new Date().toTimeString().replace(/.*(\d{2}:\d{2}:\d{2}).*/, "$1"));
+    }, 1000);
 
     // Create menu based on menu data
-    $.each(data, function(k, v) {
+    $.each(data, function (k, v) {
         $.fn.createMenuItem(k, v);
     });
 
-    $("input#search").keypress(function(e) {
-        if(e.keyCode == 13) {
+    $("input#search").keypress(function (e) {
+        if (e.keyCode == 13) {
             var query = $("input#search").val().trim();
             if (typeof query != "undefined" && query !== "") $.fn.googleSearch(query);
         }
     });
 });
 
-$.fn.createMenuItem = function(k, v) {
+$.fn.createMenuItem = function (k, v) {
     var article = document.createElement("article");
     var header = document.createElement("header");
     header.textContent = k;
@@ -26,7 +28,7 @@ $.fn.createMenuItem = function(k, v) {
 
     var section = document.createElement("section");
     var ul = document.createElement("ul");
-    $.each(v, function(k, v) {
+    $.each(v, function (k, v) {
         var li = document.createElement("li");
         var a = document.createElement("a");
         a.setAttribute("href", v.url);
@@ -39,7 +41,7 @@ $.fn.createMenuItem = function(k, v) {
     $("#menu").append(article);
 };
 
-$.fn.googleSearch = function(query) {
+$.fn.googleSearch = function (query) {
     var queryString = "",
         arrQuery = query.split(' ');
 
