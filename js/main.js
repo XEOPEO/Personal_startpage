@@ -50,5 +50,5 @@ $.fn.googleSearch = function (query) {
         if (i !== (arrQuery.length - 1)) queryString += "+";
     }
 
-    window.location.assign("http://google.com/search?q=" + queryString);
+    window.location.assign("http://ddg.gg/search?q=" + queryString);
 };
