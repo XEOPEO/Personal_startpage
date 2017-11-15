@@ -47,22 +47,18 @@ var data = {
             "url": "https://www.linkedin.com/"
         }
     ],
-    "school": [
+    "kappa": [
         {
-            "name": "leho",
-            "url": "https://leho.howest.be/"
+            "name": "Support",
+            "url": "http://support.kappadata.eu/helpdesk"
         },
         {
-            "name": "lesroosters",
-            "url": "https://lesroosters.howest.be/"
+            "name": "Sharepoint",
+            "url": "https://kappadata.sharepoint.com/_layouts/15/sharepoint.aspx"
         },
         {
-            "name": "howest",
-            "url": "http://www.howest.be/"
-        },
-        {
-            "name": "mail",
-            "url": "https://adfs.howest.be/adfs/ls/?username=&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQIIAbNSzygpKSi20tfPLy3Jyc_P1stPS8tMTjU2M9VLzs_Vyy9Kz0wBsaKYgQqKhLgEVlzniO-ctN6_s3zlttPOm4VnMQoWl5SmpOaV6GXkl6cWl-glpa5iVMJrrH5-eaL-BUbGF4yMm5jYfZ0844ODfU4wXf7Mf4tJ0L8o3TMlvNgtNSW1KLEkMz_vERNvaHFqkX9eTmVIfnZq3iRmvpz89My8-OKitPi0nPxyoADQ0ILE5JL4kszk7NSSXcwqacZJhiZGxia6xgbG5romJikWupYpiRa6SQapiSap5qnGyUnGF1gEdnE6EnapfVFqYk6uLYY31VIrkjNsDQE1"
+            "name": "Website",
+            "url": "http://www.kappadata.be/"
         }
     ],
     "anime": [
