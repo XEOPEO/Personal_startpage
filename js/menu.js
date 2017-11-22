@@ -65,7 +65,7 @@ var data = {
             "url": "https://kappadata.sharepoint.com/TechTeam/"
         },
         {
-            "name": "CCLicense"
+            "name": "CCLicense",
             "url": "https://kappadata.sharepoint.com/Lists/Control%20Center/Active%20License.aspx"
         }
     ],
