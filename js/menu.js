@@ -54,11 +54,19 @@ var data = {
         },
         {
             "name": "Sharepoint",
-            "url": "https://kappadata.sharepoint.com/_layouts/15/sharepoint.aspx"
+            "url": "https://kappadata.sharepoint.com/"
         },
         {
             "name": "Website",
             "url": "http://www.kappadata.be/"
+        },
+        {
+            "name": "Tech Team",
+            "url": "https://kappadata.sharepoint.com/TechTeam/"
+        },
+        {
+            "name": "CCLicense"
+            "url": "https://kappadata.sharepoint.com/Lists/Control%20Center/Active%20License.aspx"
         }
     ],
     "anime": [
