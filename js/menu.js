@@ -111,16 +111,24 @@ var data = {
             "url": "https://www.reddit.com/r/GlobalOffensive/"
         },
         {
-            "name": "H1Z1",
-            "url": "https://www.reddit.com/r/kotk/"
+            "name": "Azure",
+            "url": "https://www.reddit.com/r/azure/"
         },
         {
-            "name": "AMD",
-            "url": "https://www.reddit.com/r/Amd/"
+            "name": "Homelab",
+            "url": "https://www.reddit.com/r/homelab/"
         },
         {
-            "name": "Dell",
-            "url": "https://www.reddit.com/r/Dell/"
+            "name": "Networking",
+            "url": "https://www.reddit.com/r/networking/"
+        },
+        {
+            "name": "Nvidia",
+            "url": "https://www.reddit.com/r/nvidia/"
+        },
+        {
+            "name": "Windows 10",
+            "url": "https://www.reddit.com/r/windows10/"
         },
         {
             "name": "MouseReview",
@@ -129,20 +137,6 @@ var data = {
         {
             "name": "MechanicalKeyboards",
             "url": "https://www.reddit.com/r/MechanicalKeyboards/"
-        }
-    ],
-    "4chan": [
-        {
-            "name": "Technology",
-            "url": "https://boards.4chan.org/g/"
-        },
-        {
-            "name": "Wallpapers",
-            "url": "https://boards.4chan.org/wg/"
-        },
-        {
-            "name": "Anime",
-            "url": "https://boards.4chan.org/a/"
         }
     ],
     "misc": [
