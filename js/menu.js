@@ -50,7 +50,7 @@ var data = {
     "kappa": [
         {
             "name": "Support",
-            "url": "http://support.kappadata.eu/helpdesk"
+            "url": "https://ww16.autotask.net/Mvc/Framework/Authentication.mvc/Authenticate"
         },
         {
             "name": "Sharepoint",
