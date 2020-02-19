@@ -83,7 +83,23 @@ var data = {
             "url": "http://gogoanime.io/"
         }
     ],
-    "dev": [
+    "hack/dev": [
+        {
+            "name": "Hack The Box",
+            "url": "https://hackthebox.eu/"
+        },
+        {
+            "name": "Cyber Security news",
+            "url": "https://cyberpunk.xyz/thewire/cybersecurity"
+        },
+        {
+            "name": "The hacker news",
+            "url": "https://thehackernews.com/"
+        },
+        {
+            "name": "OSINT Framework",
+            "url": "https://osintframework.com/"
+        },
         {
             "name": "tutorialzine",
             "url": "http://tutorialzine.com/"
@@ -147,10 +163,6 @@ var data = {
         {
             "name": "youtube",
             "url": "https://youtu.be/"
-        },
-        {
-            "name": "The hacker news",
-            "url": "https://thehackernews.com/"
         },
         {
             "name": "tweakers",
