@@ -127,24 +127,28 @@ var data = {
             "url": "https://www.reddit.com/r/GlobalOffensive/"
         },
         {
-            "name": "Azure",
-            "url": "https://www.reddit.com/r/azure/"
-        },
-        {
-            "name": "Homelab",
-            "url": "https://www.reddit.com/r/homelab/"
-        },
-        {
-            "name": "Networking",
-            "url": "https://www.reddit.com/r/networking/"
-        },
-        {
             "name": "Nvidia",
             "url": "https://www.reddit.com/r/nvidia/"
         },
         {
             "name": "Windows 10",
             "url": "https://www.reddit.com/r/windows10/"
+        },
+        {
+            "name": "Azure",
+            "url": "https://www.reddit.com/r/azure/"
+        },
+        {
+            "name": "NetSec",
+            "url": "https://www.reddit.com/r/netsec/"
+        },
+        {
+            "name": "Networking",
+            "url": "https://www.reddit.com/r/networking/"
+        },
+        {
+            "name": "Homelab",
+            "url": "https://www.reddit.com/r/homelab/"
         },
         {
             "name": "MouseReview",
