@@ -57,6 +57,10 @@ var data = {
             "url": "https://kappadata.sharepoint.com/"
         },
         {
+            "name": "Connect",
+            "url": "https://kappadata.sharepoint.com/connect/SitePages/Home.aspx"
+        },
+        {
             "name": "Website",
             "url": "http://www.kappadata.be/"
         },
@@ -73,14 +77,6 @@ var data = {
         {
             "name": "animeshow",
             "url": "http://animeshow.tv/"
-        },
-        {
-            "name": "animetv",
-            "url": "https://www2.animetv.to/"
-        },
-        {
-            "name": "gogoanime",
-            "url": "http://gogoanime.io/"
         }
     ],
     "hack/dev": [
@@ -99,14 +95,6 @@ var data = {
         {
             "name": "OSINT Framework",
             "url": "https://osintframework.com/"
-        },
-        {
-            "name": "tutorialzine",
-            "url": "http://tutorialzine.com/"
-        },
-        {
-            "name": "tuts+",
-            "url": "http://tutsplus.com/"
         },
         {
             "name": "css-tricks",
