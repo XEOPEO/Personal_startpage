@@ -79,7 +79,7 @@ var data = {
             "url": "http://animeshow.tv/"
         },
         {
-            "name": "Zoro.to"
+            "name": "Zoro.to",
             "url": "https://zoro.to/recently-updated"
         }
     ],
