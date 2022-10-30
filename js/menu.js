@@ -89,6 +89,10 @@ var data = {
             "url": "https://hackthebox.eu/"
         },
         {
+            "name": "TryHackMe",
+            "url": "https://tryhackme.com/"
+        },
+        {
             "name": "Cyber Security news",
             "url": "https://cyberpunk.xyz/thewire/cybersecurity"
         },
