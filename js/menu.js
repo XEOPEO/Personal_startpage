@@ -1,38 +1,4 @@
 var data = {
-    "csgo": [
-        {
-            "name": "faceit",
-            "url": "https://www.faceit.com/"
-        },
-        {
-            "name": "esea",
-            "url": "https://play.esea.net/"
-        },
-        {
-            "name": "hltv",
-            "url": "http://www.hltv.org/"
-        },
-        {
-            "name": "steamcommunity",
-            "url": "https://steamcommunity.com/"
-        },
-        {
-            "name": "vakarm",
-            "url": "http://www.vakarm.net/"
-        },
-        {
-            "name": "esl",
-            "url": "http://play.eslgaming.com/"
-        },
-        {
-            "name": "steamstatus",
-            "url": "https://steamstat.us/"
-        },
-        {
-            "name": "faceitSTATS",
-            "url": "http://faceitstats.com/"
-        }
-    ],
     "social": [
         {
             "name": "facebook",
@@ -45,42 +11,6 @@ var data = {
         {
             "name": "linkedin",
             "url": "https://www.linkedin.com/"
-        }
-    ],
-    "kappa": [
-        {
-            "name": "Support",
-            "url": "https://ww16.autotask.net/Mvc/Framework/Authentication.mvc/Authenticate"
-        },
-        {
-            "name": "Sharepoint",
-            "url": "https://kappadata.sharepoint.com/"
-        },
-        {
-            "name": "Connect",
-            "url": "https://kappadata.sharepoint.com/connect/SitePages/Home.aspx"
-        },
-        {
-            "name": "Website",
-            "url": "http://www.kappadata.be/"
-        },
-        {
-            "name": "Tech Team",
-            "url": "https://kappadata.sharepoint.com/TechTeam/"
-        },
-        {
-            "name": "CCLicense",
-            "url": "https://kappadata.sharepoint.com/Lists/Control%20Center/Active%20License.aspx"
-        }
-    ],
-    "anime": [
-        {
-            "name": "animeshow",
-            "url": "http://animeshow.tv/"
-        },
-        {
-            "name": "Zoro.to",
-            "url": "https://zoro.to/recently-updated"
         }
     ],
     "hack/dev": [

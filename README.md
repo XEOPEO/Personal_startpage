@@ -16,3 +16,6 @@ The links and categories are being read out of a JSON object where people can cr
 - [x] Implement search field
 - [ ] Make the website totally responsive
 - [x] Create menu of links and categories out of JSON
+
+## Link to demo
+[Click here for Demo](https://xeopeo.github.io/Personal_startpage/)
